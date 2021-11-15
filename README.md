@@ -5,7 +5,7 @@
 #以下为图片，如加载不出来，请访问https://gitee.com/tantaizining/heating_cup_mat
 
 
-![image](https://gitee.com/tantaizining/heating_cup_mat/raw/main/images/1.jpg)
+![image1](https://gitee.com/tantaizining/heating_cup_mat/raw/master/images/1.jpg)
 
 
 若直接全功率加热，需在保险位置短接，或焊接自恢复保险丝，推荐6V4A或以上
